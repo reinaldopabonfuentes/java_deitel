@@ -1,4 +1,4 @@
-package chapterSeven.cardShuffling;
+package chapterSeven;
 
 // Fig. 7.20: VargargsTest.java
 // Using variable-length argument lists.

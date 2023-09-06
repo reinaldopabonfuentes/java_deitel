@@ -1,4 +1,4 @@
-package chapterSeven.cardShuffling;
+package chapterSeven;
 // FIg. 7.12: EnhancedForTest.java
 // Using the enhanced for statement to total integers in an array.
 
