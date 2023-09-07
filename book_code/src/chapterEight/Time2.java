@@ -114,7 +114,7 @@ public class Time2 {
     // convert to String in universal-time format (HH:MM:SS)
     public String toUniversalString(){
         return String.format(
-                "02d:%02d:%02d", getHour(), getMinute(), getSecond());
+                "%02d:%02d:%02d", getHour(), getMinute(), getSecond());
     }
 
     // convert to String in standard-time format  (H:MM:SS AM OR PM)
