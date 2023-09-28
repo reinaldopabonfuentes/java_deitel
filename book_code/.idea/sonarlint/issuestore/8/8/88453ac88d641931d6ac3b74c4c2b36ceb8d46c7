@@ -1,0 +1,22 @@
+
+c
+java:S1192"GDefine a constant instead of duplicating this literal "earned" 4 times.(ìíŠW8ñáèö«1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "%n%s%n%s: $%,.2f%n%n" 4 times.(âéıÿÿÿÿ8ñáèö«1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡í“ïüÿÿÿÿ8ñáèö«1
+\
+java:S1854H"?Remove this useless assignment to local variable "varEmployee".(¾„¾ı8ñáèö«1
+L	java:S106"+Replace this use of System.out by a logger.(øÔÕùÿÿÿÿ8ñáèö«1
+L	java:S106"+Replace this use of System.out by a logger.(âéıÿÿÿÿ8ùáèö«1
+L	java:S106"+Replace this use of System.out by a logger.(âéıÿÿÿÿ8ùáèö«1
+L	java:S106"+Replace this use of System.out by a logger.(âéıÿÿÿÿ8ùáèö«1
+L	java:S106"+Replace this use of System.out by a logger.(âéıÿÿÿÿ8ùáèö«1
+L	java:S106+"+Replace this use of System.out by a logger.(µšéıÿÿÿÿ8ùáèö«1
+G	java:S106/"+Replace this use of System.out by a logger.(¹œ…8ùáèö«1
+y
+java:S62012"\Replace this instanceof check and cast with 'instanceof BasePlusCommissionEmployee employee'(Ö“Õë8ùáèö«1
+G	java:S1069"+Replace this use of System.out by a logger.(ğÖ8ùáèö«1
+G	java:S106>"+Replace this use of System.out by a logger.(ğÖ8ùáèö«1
+G	java:S106D"+Replace this use of System.out by a logger.(è¼‹±8ùáèö«1
+M
+java:S1481H"0Remove this unused "varEmployee" local variable.(¾„¾ı8ùáèö«1
