@@ -52,7 +52,7 @@ public class PayrollSystemTest {
                 // BasePlusCommissionEmployee reference
                 BasePlusCommissionEmployee employee =
                         (BasePlusCommissionEmployee) currentEmployee;
-                
+
                 employee.setBaseSalary(1.10 * employee.getBaseSalary());
                 System.out.printf(
                         "new base salary with 10%% increase is: $%,.2f%n",
