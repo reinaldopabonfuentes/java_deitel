@@ -1,0 +1,7 @@
+
+T
+java:S2589"7Remove this expression which always evaluates to "true"(เ€ข8ฏ๒ฎ1
+G	java:S106	"+Replace this use of System.out by a logger.(รัถ8ธ๒ฎ1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(๙ฉ8ธ๒ฎ1
+G	java:S106"+Replace this use of System.out by a logger.(ฃล๊8ธ๒ฎ1
